@@ -10,8 +10,6 @@ _Уровень сложности: высокий_
 
 Делать по аналогии с примером, который был рассмотрен на уроке.
 
-![Search](/02-deep-in-components/images/011.png)
-
 Связанные вопросы:
 
 https://github.com/krambertech/react-essential-course/issues/5
